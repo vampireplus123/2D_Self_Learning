@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 27
-  productGUID: 8f87e6df4ae7dbb4e9aa84d56342e79a
+  productGUID: 48fd98264bc2bd64d88a24327c08ff60
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: My project (1)
+  productName: quoc_te_phu_nu
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -639,14 +639,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: My project (1)
+  metroPackageName: quoc_te_phu_nu
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: My project (1)
+  metroApplicationDescription: quoc_te_phu_nu
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -716,10 +716,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 0b10b4c7-0bb0-4fb2-9c35-519322ec147f
+  cloudProjectId: 84e8fd4d-9b2f-446d-8447-260d856b3b64
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: My project (1) 2024-03-02_17-13-11
+  projectName: quoc_te_phu_nu
   organizationId: vampireplus123
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
