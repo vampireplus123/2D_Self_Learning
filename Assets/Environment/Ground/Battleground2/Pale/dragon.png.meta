@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_0: 3428391033546482049
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
