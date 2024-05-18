@@ -15,6 +15,7 @@ public class Testing : MonoBehaviour
     {
         pressCount = 0;
         anim = GetComponent<Animator>();
+        Debug.Log("Hi");
     }
 
     // Update is called once per frame

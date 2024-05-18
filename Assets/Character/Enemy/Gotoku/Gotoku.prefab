@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 3234580612133143356}
   - component: {fileID: 8155104102821493686}
   - component: {fileID: 7141931492190098854}
+  - component: {fileID: 5691936677543738154}
   m_Layer: 0
   m_Name: Gotoku
   m_TagString: Untagged
@@ -109,3 +110,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5691936677543738154
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8528439862689705279}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8d93e7475de8904a82a0eef36247fbb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 0
+  damage: 0
+  maxDis: 10
+  minDis: 2
+  speed: 3
