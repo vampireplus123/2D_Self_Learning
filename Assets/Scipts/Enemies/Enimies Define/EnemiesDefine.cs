@@ -15,6 +15,5 @@ public class Onre : Enemies
     {
         base.Move(speed);
     }
-
     // You can override other methods specific to goblins
 }
