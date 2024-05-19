@@ -59,7 +59,6 @@ public abstract class Enemies : MonoBehaviour
         if (playerPosition != null)
         {
             float distanceToPlayer = Vector3.Distance(transform.position, playerPosition.position);
-            Debug.Log(distanceToPlayer);
             if (distanceToPlayer <= maxDis)
             {
                 // Calculate direction to the player
