@@ -54,8 +54,11 @@ public abstract class Enemies : MonoBehaviour
         // Move
         // Fight
         // Die
-    public virtual void Move(float speed)
+    public virtual void EnemiesController(float speed)
     {
+        Move(speed);
+    }
+    protected virtual void Move(float speed){
         if (playerPosition != null)
         {
             float distanceToPlayer = Vector3.Distance(transform.position, playerPosition.position);
